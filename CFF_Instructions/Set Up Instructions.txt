@@ -1,1 +1,9 @@
 The CFF account is for our Roblox & browser based curricula.
+First, hit the Windows key and search Update and hit enter.
+Click on the "Download and Install All" button.
+
+While the OS updates in the background, download and install Google Chrome.
+After installation completes, run Google Chrome and pin to task bar at the bottom.
+Set Chrome as the default browser.
+Run the RobloxStudioInstaller.exe and walk through steps until completion.
+Run Roblox Studio, pin to task bar.
