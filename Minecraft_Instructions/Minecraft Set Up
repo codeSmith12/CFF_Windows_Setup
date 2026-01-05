@@ -33,12 +33,19 @@ Type: pip3 install mcpi
 then: pip3 install mcpq
 
 
-
 SPIGOT SERVER DOWNLOAD
 https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM - save for later 
 
 Download and unzip this repo, place it in DOCUMENTS *IMPORTANT FOR SCRIPTS TO RUN*
 https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC
+
+*PLEASE NOTE - WHEN YOU UNZIP THE FOLDER, IT WILL CONTAIN A FOLDER WITH THE EXACT NAME, WE NEED TO PULL THAT OUT *
+
+After dragging the zip into Documents, unzip the folder. Delete the zipped folder as we don't need it after unzipping.
+Open the unzipped folder, drag the contents (AdventuresInMinecraft) out to Documents.
+
+Now, the path to the folder should be C:Documents\\AdventuresInMinecraft\*
+NOT C:Documents\\AdventuresInMinecraft\AdventuresInMinecraft\*
 
 This repo has everything we need EXCEPT:
 1. The server is outdated
