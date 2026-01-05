@@ -13,3 +13,4 @@ https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
 Remove all icons on the task bar that you didn't add manually.
 Download CFF_Logo.png and set it as the wall paper
 
+Take a look at Roblox_Finished.png and make sure your computer looks the same.
