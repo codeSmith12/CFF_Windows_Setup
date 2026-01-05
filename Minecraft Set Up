@@ -2,11 +2,22 @@ Set Up for Minecraft Account
 
 From the CFF account that's already set up, open terminal / CMD as admin
 Use the following commands to make the account:
+
 net user Minecraft owl /add
 net localgroup administrators Minecraft /add
 
 After these commands have been made, switch to the Minecraft account.
 Walk through the set up process, make sure to disable any information tracking that you can.
 
+Download Minecraft here: 
+https://aka.ms/minecraftClientGameCoreWindows
+
+Install Minecraft. Log in using minecraft7@codeforfun.com  || Codeforfunfox1
+
+Next, install Java:
+https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
+
+SPIGOT SERVER DOWNLOAD
+https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
 
 
