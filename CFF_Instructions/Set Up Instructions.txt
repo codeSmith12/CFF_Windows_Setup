@@ -1,5 +1,11 @@
 The CFF account is for our Roblox & browser based curricula.
-First, hit the Windows key and search Update and hit enter.
+
+Create the account, call it CFF
+Password: cff
+
+Walk through set up, disable as many data gathering settings as possible.
+
+Once you get to the desktop, hit the Windows key and search Update and hit enter.
 Click on the "Download and Install All" button.
 
 While the OS updates in the background, download and install Google Chrome.
