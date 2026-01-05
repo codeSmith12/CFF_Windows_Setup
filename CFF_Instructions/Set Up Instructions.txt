@@ -7,3 +7,9 @@ After installation completes, run Google Chrome and pin to task bar at the botto
 Set Chrome as the default browser.
 Run the RobloxStudioInstaller.exe and walk through steps until completion.
 Run Roblox Studio, pin to task bar.
+Download & Install Scratch Desktop.
+Run and pin to task bar.
+https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
+Remove all icons on the task bar that you didn't add manually.
+Download CFF_Logo.png and set it as the wall paper
+
