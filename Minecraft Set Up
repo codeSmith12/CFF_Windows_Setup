@@ -50,6 +50,9 @@ We can fix that by doing the following:
 Take the Spigot server you downloaded from earlier, place it into the Documents/AdventuresInMinecraft/Server.
 ** You need to rename the file to "craftbukkit", you need to REPLACE the file that's already there **
 
+In this Repo, there's a file called "server.properties"
+Download that file and replace the file that's found in Documents/AdventuresInMinecraft/Server
+
 On this github repo, find the files called: StartServer.bat and ResetServer.bat
 Download them and place them into the Documents/AdventuresInMinecraft folder.
 
@@ -61,6 +64,20 @@ Optional - Rename the files you just created to remove the "- shortcut" from the
 At this point, it's time to test if we got the minecraft server working.
 Find the StartServer shortcut, run it. This should turn off your wifi, so make sure you've already installed the Minecraft Server / Client..
 
+Launch Minecraft, then hit Play.
+At the title screen, select Multiplayer.
+Click "Add Server", Call it "Code for Fun".
+For Server Address, type: 127.0.0.1, then hit Done
+You should see that the Server is accessible. Join it. 
+If this didn't work, make sure that the server is running in the first place and that when you typed in the IP address it was correct.
+Otherwise, find the "testing.py" script in this repo. You can copy and paste the script into an IDLE file or however you'd like.
+Run the script and quickly alt-tab over to Minecraft. You should see a message saying "Hello world!"
 
+If you do, then you're good to go!
 
+Remember to change the background image to CFF_Logo.png.
+Remove anything on the task bar / on the desktop that isn't Chrome, Start Server, Reset Server, IDLE or Minecraft.
 
+Move the ResetServer and StartServer commands to opposite ends. This will hopefully avoid students accidentally running the reset server script...
+Look at the screen shot provided (minecraftFinished.png) to get an idea of what the computer should look like once you've finished.
+Note that at the bottom of the photo, I've hovered over the Minecraft Launcher to show you that it's there...
