@@ -14,7 +14,7 @@ https://aka.ms/minecraftClientGameCoreWindows
 
 Install Minecraft. Log in using minecraft7@codeforfun.com  || Codeforfunfox1
 
-Open Minecraft, pin to the task bar (As of writing, the icon on the task bar is invisible, but it's still there, hopefully this will be respolved.)
+Open Minecraft, pin to the task bar (As of writing, the icon on the task bar is invisible, but it's still there, hopefully this will be resolved)
 Navigate to Java Edition on the left side, then the Installations tab at the top.
 Click "New installation" and find the version 1.21.11, name it "Code for Fun"
 
@@ -27,8 +27,15 @@ Install Python:
 https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
 Open IDLE and pin to task bar.
 
+Now that Python is installed, we can use pip.
+Hit the windows key, search CMD and run as administrator
+Type: pip3 install mcpi
+then: pip3 install mcpq
+
+
+
 SPIGOT SERVER DOWNLOAD
-https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
+https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM - save for later 
 
 Download and unzip this repo, place it in DOCUMENTS *IMPORTANT FOR SCRIPTS TO RUN*
 https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC
@@ -40,14 +47,20 @@ This repo has everything we need EXCEPT:
 3. There is no ResetServer script
 
 We can fix that by doing the following:
-Take the Spigot server you downloaded from line 24/25, place it into the Documents/AdventuresInMinecraft/Server.
-**You need to rename the file to "craftbukkit", you need to REPLACE the file that's already there**
+Take the Spigot server you downloaded from earlier, place it into the Documents/AdventuresInMinecraft/Server.
+** You need to rename the file to "craftbukkit", you need to REPLACE the file that's already there **
 
 On this github repo, find the files called: StartServer.bat and ResetServer.bat
 Download them and place them into the Documents/AdventuresInMinecraft folder.
 
 For both StartServer and ResetServer, we don't want the original / only copies to be on the desktop, in case they are accidentally deleted.
 Right click on StartServer, click on "Show more options", then "Send to" -> "Desktop(create shortcut)"
+Do the same for ResetServer
+Optional - Rename the files you just created to remove the "- shortcut" from the name. It looks better that way :)
+
+At this point, it's time to test if we got the minecraft server working.
+Find the StartServer shortcut, run it. This should turn off your wifi, so make sure you've already installed the Minecraft Server / Client..
+
 
 
 
