@@ -23,7 +23,7 @@ Download and install VSCode
 https://code.visualstudio.com/download
 Add shortcut to desktop
 
-Download and install Python, make sure to check the box that says Add to PATH
+Download and install Python, make sure to check the 2 additional boxes in the installer (Run as Administrator, Add to PATH)
 
 Remove all icons on the task bar that you didn't add manually.
 Download CFF_Logo.png and set it as the wall paper
