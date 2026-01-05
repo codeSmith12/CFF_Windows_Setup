@@ -13,18 +13,20 @@ After installation completes, run Google Chrome and pin to task bar at the botto
 Set Chrome as the default browser.
 
 Run the RobloxStudioInstaller.exe and walk through steps until completion.
-Run Roblox Studio, pin to task bar.
+Run Roblox Studio, make shortcut on desktop
 
 Download & Install Scratch Desktop.
-Run and pin to task bar.
+Add shortcut to the desktop
 https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
 
 Download and install VSCode
 https://code.visualstudio.com/download
+Add shortcut to desktop
 
 Download and install Python, make sure to check the box that says Add to PATH
 
 Remove all icons on the task bar that you didn't add manually.
 Download CFF_Logo.png and set it as the wall paper
+Set theme as Dark
 
 Take a look at Roblox_Finished.png and make sure your computer looks the same.
