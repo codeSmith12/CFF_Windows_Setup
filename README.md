@@ -1,5 +1,4 @@
-# CFF_Windows_Setupsp
-Follow these instructions to set up the windows machines for Roblox/Minecraft activities.
+
 
 SPIGOT SERVER DOWNLOAD
 https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
