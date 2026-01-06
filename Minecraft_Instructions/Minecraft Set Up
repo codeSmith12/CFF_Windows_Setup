@@ -9,8 +9,24 @@ net localgroup administrators Minecraft /add
 After these commands have been made, switch to the Minecraft account (the password is owl)
 Walk through the set up process, make sure to disable any information tracking that you can.
 
-Download Minecraft here: 
+Once in the new account, download all of these files:
+___________________________________________________________
+Minecraft: 
 https://aka.ms/minecraftClientGameCoreWindows
+
+Java:
+https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
+
+Python:
+https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
+
+Spigot Server:
+https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
+
+Adventures In Minecraft Starter Files:
+https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC.git
+
+___________________________________________________________
 
 Install Minecraft. Log in using minecraft7@codeforfun.com  || Codeforfunfox1
 
@@ -20,28 +36,13 @@ Click "New installation" and find the version 1.21.11, name it "Code for Fun"
 
 Click Play to download / install that version of Minecraft.
 
-Next, install Java:
-https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
-
-Install Python:
-https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
 Open IDLE and pin to task bar.
 
-Now that Python is installed, we can use pip.
 Hit the windows key, search CMD and run as administrator, run the following commands
 pip3 install mcpi
 pip3 install mcpq
 
-
-SPIGOT SERVER DOWNLOAD
-https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
-
-Download and unzip this repo, place it in DOCUMENTS *IMPORTANT FOR SCRIPTS TO RUN*
-https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC.git
-
-*PLEASE NOTE - WHEN YOU UNZIP THE FOLDER, IT WILL CONTAIN A FOLDER WITH THE EXACT NAME, WE NEED TO PULL THAT OUT *
-
-After dragging the zip into Documents, unzip the folder. Delete the zipped folder as we don't need it after unzipping.
+After dragging the zip (AdventuresInMinecraft) into Documents, unzip the folder. Delete the zipped folder as we don't need it after unzipping.
 Open the unzipped folder, drag the contents (AdventuresInMinecraft) out to Documents.
 
 Now, the path to the folder should be C:Documents\\AdventuresInMinecraft\*
