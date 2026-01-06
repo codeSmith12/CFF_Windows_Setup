@@ -24,6 +24,7 @@ https://code.visualstudio.com/download
 Add shortcut to desktop
 
 Download and install Python, make sure to check the 2 additional boxes in the installer (Run as Administrator, Add to PATH)
+https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
 
 Remove all icons on the task bar that you didn't add manually.
 Download CFF_Logo.png and set it as the wall paper
