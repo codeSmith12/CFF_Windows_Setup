@@ -28,13 +28,13 @@ https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
 Open IDLE and pin to task bar.
 
 Now that Python is installed, we can use pip.
-Hit the windows key, search CMD and run as administrator
-Type: pip3 install mcpi
-then: pip3 install mcpq
+Hit the windows key, search CMD and run as administrator, run the following commands
+pip3 install mcpi
+pip3 install mcpq
 
 
 SPIGOT SERVER DOWNLOAD
-https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM - save for later 
+https://getbukkit.org/get/AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM
 
 Download and unzip this repo, place it in DOCUMENTS *IMPORTANT FOR SCRIPTS TO RUN*
 https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC
